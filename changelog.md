@@ -1,3 +1,6 @@
+# v1.0.2
+- Fix go list error
+
 # v1.0.1
 - Fix go module name issue
 
